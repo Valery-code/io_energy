@@ -1,0 +1,7100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Братская ГЭС",
+        "power": "plant",
+        "generator:source": "hydro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.787115,
+          56.284761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Иркутская ГЭС",
+        "power": "plant",
+        "generator:source": "hydro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.32163,
+          52.237066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Мамаканская ГЭС",
+        "power": "plant",
+        "generator:source": "hydro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.03266,
+          57.809088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227140524",
+        "barrier": "fence",
+        "name": "ОРУ Усть-Илимской ГЭС",
+        "name:en": "Open switchgear of Ust-Ilimskaya HPP",
+        "official_short_type": "ОРУ",
+        "operator": "Россети ФСК ЕЭС",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "500000;220000",
+        "website": "https://www.fsk-ees.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7088376,
+          57.9706795
+        ]
+      },
+      "id": "way/227140524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Усть-Илимская ГЭС",
+        "power": "plant",
+        "generator:source": "hydro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.69041,
+          57.968909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217409904",
+        "name": "Байкальская ТЭЦ",
+        "power": "substation",
+        "substation": "generation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1781908,
+          51.5169168
+        ]
+      },
+      "id": "way/1217409904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/914091062",
+        "building": "industrial",
+        "name": "ГПП 30/6 кВ Участка №1 ТЭЦ-9",
+        "operator": "ОАО \"Иркутская электросетевая компания\"",
+        "power": "substation",
+        "substation": "converter",
+        "voltage": "30000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9302209,
+          52.5653166
+        ]
+      },
+      "id": "way/914091062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297714701",
+        "landuse": "industrial",
+        "name": "Иркутская ТЭЦ-10",
+        "plant:method": "combustion",
+        "plant:output:electricity": "1110 MW",
+        "plant:source": "coal",
+        "power": "plant",
+        "start_date": "1959",
+        "wikidata": "Q4203280",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.978866,
+          52.4631475
+        ]
+      },
+      "id": "way/297714701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/865784756",
+        "name": "Иркутская ТЭЦ-11",
+        "official_short_type": "ОРУ",
+        "power": "substation",
+        "substation": "generation",
+        "voltage": "220000;110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6053873,
+          52.784259
+        ]
+      },
+      "id": "way/865784756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/116489394",
+        "landuse": "industrial",
+        "name": "Иркутская ТЭЦ-6",
+        "name:en": "Irkutsk-6 Power Plant",
+        "plant:method": "combustion",
+        "plant:output:electricity": "270 MW",
+        "plant:source": "coal",
+        "power": "plant",
+        "start_date": "1964",
+        "wikidata": "Q55658056",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5966924,
+          56.1228607
+        ]
+      },
+      "id": "way/116489394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/127395455",
+        "generator:method": "combustion",
+        "generator:source": "coal",
+        "landuse": "industrial",
+        "name": "Иркутская ТЭЦ-9",
+        "name:en": "Irkutsk-9 Power Plant",
+        "plant:method": "combustion",
+        "plant:output:electricity": "540 MW",
+        "plant:source": "coal",
+        "power": "plant",
+        "source": "http://globalenergyobservatory.org/geoid/40551",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9377844,
+          52.5331747
+        ]
+      },
+      "id": "way/127395455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544462910",
+        "building": "industrial",
+        "generator:method": "combustion",
+        "generator:output:electricity": "yes",
+        "generator:output:hot_water": "yes",
+        "generator:source": "coal",
+        "landuse": "industrial",
+        "name": "ИТЭЦ-12",
+        "name:en": "Irkutsk-12 Power Plant",
+        "operator": "ООО \"БЭК\"",
+        "plant:method": "combustion",
+        "plant:output:electricity": "12 MW",
+        "plant:source": "coal",
+        "power": "plant",
+        "start_date": "1932.07.28",
+        "substation": "generation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1334711,
+          53.1244705
+        ]
+      },
+      "id": "way/544462910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14467149",
+        "landuse": "industrial",
+        "name": "Ново-Зиминская ТЭЦ",
+        "name:en": "Novo-Ziminsk Power Plant",
+        "plant:method": "combustion",
+        "plant:output:electricity": "260 MW",
+        "plant:source": "coal",
+        "power": "plant",
+        "start_date": "1980",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0353073,
+          54.0330547
+        ]
+      },
+      "id": "relation/14467149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/865784768",
+        "name": "Ново-Иркутская ТЭЦ",
+        "official_short_type": "ОРУ",
+        "power": "substation",
+        "substation": "generation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1997295,
+          52.248742
+        ]
+      },
+      "id": "way/865784768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297853680",
+        "building": "industrial",
+        "name": "ОРУ 110 кВ Участка №1 ТЭЦ-9",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9211788,
+          52.5583793
+        ]
+      },
+      "id": "way/297853680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297709960",
+        "landuse": "industrial",
+        "name": "ТЭЦ-1",
+        "name:en": "Irkutsk-9 Station 1 power station",
+        "plant:method": "combustion",
+        "plant:output:electricity": "yes",
+        "plant:source": "coal",
+        "power": "plant",
+        "source": "https://www.gem.wiki/Irkutsk-9_Station_1_power_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9313145,
+          52.5663256
+        ]
+      },
+      "id": "way/297709960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/845680606",
+        "landuse": "industrial",
+        "name": "Усть-Илимская ТЭЦ",
+        "name:en": "Ust-Ilimsk Power Plant",
+        "plant:method": "combustion",
+        "plant:output:electricity": "515 MW",
+        "plant:source": "coal",
+        "power": "plant",
+        "start_date": "1979",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8089857,
+          58.0515346
+        ]
+      },
+      "id": "way/845680606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1346174874",
+        "name": "(Андреевск)",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.3189281,
+          58.1316189
+        ]
+      },
+      "id": "way/1346174874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378348308",
+        "name": "(арсенал РАВ)",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.407915,
+          56.205888
+        ]
+      },
+      "id": "way/1378348308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1346174887",
+        "name": "(Артёмовская)",
+        "power": "substation",
+        "voltage": "110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6555583,
+          58.1998579
+        ]
+      },
+      "id": "way/1346174887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547075610",
+        "name": "(Байша)",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.634025,
+          53.3720193
+        ]
+      },
+      "id": "way/547075610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378064134",
+        "name": "(Верхнемарковский энергокомплекс)",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0175645,
+          57.3610415
+        ]
+      },
+      "id": "way/1378064134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378348295",
+        "name": "(Водозабор)",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6581758,
+          56.1223832
+        ]
+      },
+      "id": "way/1378348295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/470473792",
+        "barrier": "fence",
+        "name": "(Казачинское)",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5814678,
+          56.2649149
+        ]
+      },
+      "id": "way/470473792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439442516",
+        "name": "(Казачье)",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4351501,
+          53.3304981
+        ]
+      },
+      "id": "way/439442516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439441624",
+        "name": "(Каменка)",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3750484,
+          53.1589924
+        ]
+      },
+      "id": "way/439441624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1381081304",
+        "fixme": "name, voltage",
+        "name": "(Котельная)",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.599401,
+          54.5264534
+        ]
+      },
+      "id": "way/1381081304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1346174863",
+        "name": "(кропоткин)",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.302525,
+          58.5009642
+        ]
+      },
+      "id": "way/1346174863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/449088929",
+        "name": "(Молька)",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.333838,
+          53.8882787
+        ]
+      },
+      "id": "way/449088929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1380813077",
+        "name": "(Нижнеудинская НПС)",
+        "power": "substation",
+        "substation": "industrial",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9813868,
+          54.8934126
+        ]
+      },
+      "id": "way/1380813077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1379409144",
+        "name": "(Петропавловское)",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.9679565,
+          58.2140699
+        ]
+      },
+      "id": "way/1379409144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1356609864",
+        "name": "(промзона Окунайский)",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6419349,
+          56.0233871
+        ]
+      },
+      "id": "way/1356609864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255820435",
+        "fixme": "name",
+        "name": "(Ремзавод)",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.0009527,
+          54.9192353
+        ]
+      },
+      "id": "way/255820435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378642986",
+        "name": "(Рождественка)",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.6284166,
+          55.7903902
+        ]
+      },
+      "id": "way/1378642986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/986864150",
+        "name": "(Свердлово)",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7974181,
+          52.5841946
+        ]
+      },
+      "id": "way/986864150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437261906",
+        "name": "(Середкина)",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4111511,
+          53.4388929
+        ]
+      },
+      "id": "way/437261906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378348278",
+        "name": "(Тарма)",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.3440347,
+          55.9700261
+        ]
+      },
+      "id": "way/1378348278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436893707",
+        "fixme": "voltage",
+        "name": "(Тимошино)",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.728246,
+          54.3931587
+        ]
+      },
+      "id": "way/436893707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1380813082",
+        "name": "(Умыган)",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2446585,
+          54.7502198
+        ]
+      },
+      "id": "way/1380813082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/449080902",
+        "name": "(Усть-Уда)",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0472441,
+          54.1698649
+        ]
+      },
+      "id": "way/449080902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378348291",
+        "name": "(Хлорный завод)",
+        "power": "substation",
+        "substation": "industrial",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6335888,
+          56.1158772
+        ]
+      },
+      "id": "way/1378348291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/535716665",
+        "name": "(Худоеланская-тяг.)",
+        "official_short_type": "ТПС",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000;27500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.6480015,
+          54.7003119
+        ]
+      },
+      "id": "way/535716665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436890737",
+        "name": "(Чичек)",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7991373,
+          54.5269823
+        ]
+      },
+      "id": "way/436890737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255707460",
+        "name": "(Чунский)",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.6578151,
+          56.0973436
+        ]
+      },
+      "id": "way/255707460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/495524765",
+        "barrier": "fence",
+        "fixme": "name, voltage",
+        "name": "(Шелехово)",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.6864734,
+          55.7257567
+        ]
+      },
+      "id": "way/495524765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1310454754",
+        "name": "(шишино)",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.6865461,
+          56.9001948
+        ]
+      },
+      "id": "way/1310454754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1311467372",
+        "name": "(Эдучанка)",
+        "power": "substation",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1325564,
+          57.3616255
+        ]
+      },
+      "id": "way/1311467372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1379409142",
+        "name": "(Юбилейный)",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.8461038,
+          58.1346856
+        ]
+      },
+      "id": "way/1379409142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217409897",
+        "name": "Академическая",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2662126,
+          52.2394075
+        ]
+      },
+      "id": "way/1217409897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1122175960",
+        "name": "Алгатуй",
+        "power": "substation",
+        "voltage": "110000;35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2046801,
+          54.4107716
+        ]
+      },
+      "id": "way/1122175960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435002258",
+        "name": "Анга",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1872173,
+          53.9709294
+        ]
+      },
+      "id": "way/435002258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/969138770",
+        "industrial": "energy",
+        "name": "Ангарская",
+        "name:ru": "Ангарская",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "voltage:primary": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8942435,
+          52.5221717
+        ]
+      },
+      "id": "way/969138770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114340645",
+        "barrier": "fence",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Ангарстрой",
+        "official_short_type": "ПС",
+        "operator": "АО «БЭСК»",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9019938,
+          56.2819857
+        ]
+      },
+      "id": "way/114340645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/206847167",
+        "name": "Ангасолка",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7656719,
+          51.7458518
+        ]
+      },
+      "id": "way/206847167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/514272998",
+        "landuse": "industrial",
+        "name": "Андрияновская",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8129914,
+          51.8018308
+        ]
+      },
+      "id": "way/514272998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1380813079",
+        "name": "Атагай",
+        "power": "substation",
+        "substation": "minor_distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.3880494,
+          55.0897972
+        ]
+      },
+      "id": "way/1380813079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/532280683",
+        "fixme": "voltage",
+        "name": "Бадар",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.592259,
+          54.3959033
+        ]
+      },
+      "id": "way/532280683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/18976665",
+        "name": "Байкальская",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "substation": "transmission",
+        "type": "multipolygon",
+        "voltage": "220000;110000;10000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3344678,
+          52.2533815
+        ]
+      },
+      "id": "relation/18976665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233399456",
+        "name": "Байкальская",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2384695,
+          51.4979689
+        ]
+      },
+      "id": "way/233399456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/540025977",
+        "barrier": "fence",
+        "frequency": "60",
+        "location": "outdoor",
+        "name": "Баяндай",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4944966,
+          53.0469602
+        ]
+      },
+      "id": "way/540025977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/496261359",
+        "barrier": "fence",
+        "name": "Берёзовая",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4220313,
+          52.2402825
+        ]
+      },
+      "id": "way/496261359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/496571605",
+        "barrier": "fence",
+        "name": "Бирюлька",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3092377,
+          53.8686498
+        ]
+      },
+      "id": "way/496571605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/116489400",
+        "branch": "Северные электрические сети",
+        "description": "ОДГ-2",
+        "frequency": "50",
+        "name": "БЛПК",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "source": "+7(3953)41-32-97 ‎",
+        "substation": "distribution",
+        "voltage": "220000;110000;fixme",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5906249,
+          56.1256294
+        ]
+      },
+      "id": "way/116489400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/704936158",
+        "barrier": "fence",
+        "name": "Бозой",
+        "power": "substation",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8665484,
+          52.9300805
+        ]
+      },
+      "id": "way/704936158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207754543",
+        "name": "Большие Коты",
+        "power": "substation",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.0599658,
+          51.9026286
+        ]
+      },
+      "id": "way/207754543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217409903",
+        "name": "Большой Луг",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0984191,
+          52.087595
+        ]
+      },
+      "id": "way/1217409903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172362065",
+        "barrier": "fence",
+        "description": "два ТДН-10000/110/10 1993 и 2000 гг.",
+        "name": "Бохан",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7867754,
+          53.1792728
+        ]
+      },
+      "id": "way/172362065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307086885",
+        "barrier": "fence",
+        "branch": "Северные электрические сети",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "БР-72",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7102708,
+          56.356139
+        ]
+      },
+      "id": "way/1307086885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/225711294",
+        "full_name": "Братский переключательный пункт",
+        "name": "Братский ПП",
+        "power": "substation",
+        "short_name": "БПП",
+        "substation": "transmission",
+        "voltage": "500000;220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9023471,
+          56.1880123
+        ]
+      },
+      "id": "way/225711294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218135872",
+        "name": "Бугульдейка",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0656024,
+          52.5556597
+        ]
+      },
+      "id": "way/1218135872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227657047",
+        "name": "Будагово",
+        "official_short_type": "ТПС",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000;27500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.1406861,
+          54.6283603
+        ]
+      },
+      "id": "way/227657047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435002694",
+        "name": "Бутаково",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1167921,
+          54.0444369
+        ]
+      },
+      "id": "way/435002694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/421468923",
+        "name": "Быстрая",
+        "name:en": "Bystraya",
+        "name:ru": "Быстрая",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4300217,
+          51.7313456
+        ]
+      },
+      "id": "way/421468923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217212738",
+        "name": "Бытовая",
+        "power": "substation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1639747,
+          52.3413301
+        ]
+      },
+      "id": "way/1217212738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14462104",
+        "name": "Верхнемарково",
+        "power": "substation",
+        "type": "multipolygon",
+        "voltage": "110000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0353497,
+          57.3455885
+        ]
+      },
+      "id": "relation/14462104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168978953",
+        "name": "Видим-тяговая",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1090742,
+          56.397024
+        ]
+      },
+      "id": "way/168978953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/448095418",
+        "barrier": "fence",
+        "name": "Гаханы",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8617309,
+          53.0496342
+        ]
+      },
+      "id": "way/448095418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113528863",
+        "barrier": "fence",
+        "branch": "Северные электрические сети",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Гидростроитель",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000;27500;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8548854,
+          56.2713321
+        ]
+      },
+      "id": "way/113528863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/692362993",
+        "addr:city": "Иркутск",
+        "addr:country": "RU",
+        "addr:region": "Иркутская область",
+        "building": "industrial",
+        "name": "Глазково",
+        "power": "substation",
+        "voltage": "110000;10000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2365526,
+          52.2835088
+        ]
+      },
+      "id": "way/692362993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378642975",
+        "name": "ГНПС № 1 ВСТО",
+        "power": "substation",
+        "substation": "industrial",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.0289768,
+          55.8886795
+        ]
+      },
+      "id": "way/1378642975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/141629072",
+        "barrier": "fence",
+        "name": "Гуран",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6502253,
+          54.7670913
+        ]
+      },
+      "id": "way/141629072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217613544",
+        "name": "Дачная",
+        "power": "substation",
+        "voltage": "110000;35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5574305,
+          52.1417843
+        ]
+      },
+      "id": "way/1217613544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1311289160",
+        "name": "Джижива",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "220000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.026596,
+          57.5736507
+        ]
+      },
+      "id": "way/1311289160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218390472",
+        "name": "Дяля",
+        "power": "substation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.5754946,
+          56.8727681
+        ]
+      },
+      "id": "way/1218390472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/531988839",
+        "name": "Едогон",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2359791,
+          54.2523367
+        ]
+      },
+      "id": "way/531988839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/458680759",
+        "barrier": "fence",
+        "name": "Еланцы",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3862146,
+          52.7892603
+        ]
+      },
+      "id": "way/458680759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/392198051",
+        "name": "Енисей",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1471988,
+          53.3444737
+        ]
+      },
+      "id": "way/392198051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264545578",
+        "barrier": "fence",
+        "name": "Ерши",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.333674,
+          52.2173696
+        ]
+      },
+      "id": "way/264545578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/570124813",
+        "barrier": "fence",
+        "description": "ТМТН-6300/110/20/10 1973 г.в.; ТДТН-10000/110/20/10 1975 г.в.",
+        "name": "Жигалово",
+        "power": "substation",
+        "rating": "16.3 MVA",
+        "substation": "distribution",
+        "voltage": "110000;20000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.1195697,
+          54.8075877
+        ]
+      },
+      "id": "way/570124813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114327639",
+        "barrier": "fence",
+        "branch": "Северные электрические сети",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Заводская",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "220000;110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.9114366,
+          56.2864366
+        ]
+      },
+      "id": "way/114327639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/141608458",
+        "barrier": "wall",
+        "name": "Замзор",
+        "official_short_type": "ТПС",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000;27500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6422831,
+          55.3627275
+        ]
+      },
+      "id": "way/141608458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/116610211",
+        "branch": "Северные электрические сети",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Западная",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5989215,
+          56.1831559
+        ]
+      },
+      "id": "way/116610211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298827269",
+        "name": "Западная",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1537862,
+          52.3631297
+        ]
+      },
+      "id": "way/298827269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218390454",
+        "name": "Звёздная",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5118332,
+          56.7443833
+        ]
+      },
+      "id": "way/1218390454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1346385582",
+        "name": "Зенит",
+        "power": "substation",
+        "substation": "yes",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.5887264,
+          60.1469763
+        ]
+      },
+      "id": "way/1346385582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/251595953",
+        "description": "ТМТН-6300/110/35/10",
+        "name": "Знаменка",
+        "power": "substation",
+        "rating": "6.3 MVA",
+        "start_date": "1987",
+        "substation": "distribution",
+        "voltage": "110000;35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8260851,
+          54.704211
+        ]
+      },
+      "id": "way/251595953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217438234",
+        "name": "Знаменская",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2991535,
+          52.3205906
+        ]
+      },
+      "id": "way/1217438234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217438235",
+        "name": "Знаменская-2",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3001482,
+          52.3204068
+        ]
+      },
+      "id": "way/1217438235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307086876",
+        "barrier": "fence",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Зяба",
+        "official_short_type": "ПС",
+        "power": "substation",
+        "substation": "minor_distribution",
+        "voltage": "35000;400",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8237821,
+          56.2439207
+        ]
+      },
+      "id": "way/1307086876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/296879458",
+        "area": "yes",
+        "name": "Зяба-тяговая",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.1240077,
+          56.3843428
+        ]
+      },
+      "id": "way/296879458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217409895",
+        "name": "ИАЗ",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2031998,
+          52.350649
+        ]
+      },
+      "id": "way/1217409895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/449074639",
+        "name": "Игжей",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1328458,
+          54.0270889
+        ]
+      },
+      "id": "way/449074639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217409899",
+        "name": "Изумрудная",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2702163,
+          52.2153387
+        ]
+      },
+      "id": "way/1217409899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/594306270",
+        "name": "Икей",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.0810445,
+          54.1996022
+        ]
+      },
+      "id": "way/594306270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/359167596",
+        "barrier": "fence",
+        "branch": "Северные электрические сети",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Инкубатор",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6740626,
+          56.3184349
+        ]
+      },
+      "id": "way/359167596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217426334",
+        "name": "Иркутск-Сортировочный",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.19424,
+          52.3450751
+        ]
+      },
+      "id": "way/1217426334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110796857",
+        "frequency": "50",
+        "landuse": "industrial",
+        "location": "outdoor",
+        "name": "Иркутская",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "converter",
+        "voltage": "500000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8682901,
+          52.4614035
+        ]
+      },
+      "id": "way/110796857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217438244",
+        "name": "Искра",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3477947,
+          52.3468319
+        ]
+      },
+      "id": "way/1217438244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244130346",
+        "barrier": "fence",
+        "name": "Карлук",
+        "power": "substation",
+        "voltage": "110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3142336,
+          52.4166501
+        ]
+      },
+      "id": "way/244130346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/256577268",
+        "name": "Катарбей",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.6760546,
+          54.3696034
+        ]
+      },
+      "id": "way/256577268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435226202",
+        "name": "Качуг",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8673553,
+          53.9352772
+        ]
+      },
+      "id": "way/435226202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/515191021",
+        "name": "Кашима",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6454246,
+          57.0827889
+        ]
+      },
+      "id": "way/515191021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146806282",
+        "name": "Кежемская-тяговая",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4331288,
+          56.565345
+        ]
+      },
+      "id": "way/146806282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237265407",
+        "name": "Киренга",
+        "power": "substation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.4538708,
+          56.1613569
+        ]
+      },
+      "id": "way/237265407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254307133",
+        "name": "Киренск",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.1030906,
+          57.7583635
+        ]
+      },
+      "id": "way/254307133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228246728",
+        "name": "Ключи",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "500000;220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0563468,
+          52.1843345
+        ]
+      },
+      "id": "way/228246728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1335963200",
+        "name": "Ковыкта",
+        "power": "substation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1942219,
+          55.3316911
+        ]
+      },
+      "id": "way/1335963200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146806283",
+        "barrier": "wall",
+        "name": "Коршуниха",
+        "power": "substation",
+        "voltage": "220000;110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1408138,
+          56.5661188
+        ]
+      },
+      "id": "way/146806283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146807061",
+        "name": "Коршуниха-тяговая",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1393135,
+          56.5729648
+        ]
+      },
+      "id": "way/146807061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1209979189",
+        "name": "Косая Степь",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0963194,
+          52.8457841
+        ]
+      },
+      "id": "way/1209979189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/758508328",
+        "name": "Костино",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.5116086,
+          55.6224375
+        ]
+      },
+      "id": "way/758508328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/116725384",
+        "name": "Котельная",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;fixme",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5602437,
+          56.1867582
+        ]
+      },
+      "id": "way/116725384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378064140",
+        "fixme": "voltage",
+        "name": "КП-48",
+        "power": "substation",
+        "substation": "industrial",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9943712,
+          57.9485503
+        ]
+      },
+      "id": "way/1378064140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307086884",
+        "barrier": "fence",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "КПД",
+        "official_short_type": "ПС",
+        "operator": "ООО \"ЭНКТП\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7762728,
+          56.3191141
+        ]
+      },
+      "id": "way/1307086884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378348277",
+        "name": "Кузнецовка",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000;10000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.2375793,
+          56.0857004
+        ]
+      },
+      "id": "way/1378348277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1123615088",
+        "name": "Кунерма",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.4380734,
+          55.7663272
+        ]
+      },
+      "id": "way/1123615088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/397908983",
+        "name": "Левобережная",
+        "power": "substation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.243579,
+          52.3412141
+        ]
+      },
+      "id": "way/397908983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/361179261",
+        "barrier": "fence",
+        "name": "Лена",
+        "power": "substation",
+        "voltage": "220000;110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7735988,
+          56.801551
+        ]
+      },
+      "id": "way/361179261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217409901",
+        "name": "Летняя",
+        "power": "substation",
+        "voltage": "110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4736294,
+          52.1779343
+        ]
+      },
+      "id": "way/1217409901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1178750988",
+        "name": "Лисиха",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "rating": "6.3 MVA",
+        "substation": "distribution",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3362223,
+          52.2531543
+        ]
+      },
+      "id": "way/1178750988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307086868",
+        "barrier": "fence",
+        "branch": "Северные электрические сети",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "ЛПК-122",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8646609,
+          56.2697181
+        ]
+      },
+      "id": "way/1307086868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/169816701",
+        "name": "Луговая",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.076449,
+          52.2006412
+        ]
+      },
+      "id": "way/169816701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/679090667",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Максимовская",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1041414,
+          52.2749544
+        ]
+      },
+      "id": "way/679090667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217212748",
+        "name": "Малая Елань",
+        "power": "substation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0495301,
+          52.3734492
+        ]
+      },
+      "id": "way/1217212748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/292125920",
+        "access": "no",
+        "barrier": "fence",
+        "name": "Мамакан",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "220000;110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.020568,
+          57.8076963
+        ]
+      },
+      "id": "way/292125920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/481727480",
+        "barrier": "fence",
+        "name": "Манзурка",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0497743,
+          53.4889091
+        ]
+      },
+      "id": "way/481727480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/451810884",
+        "name": "Мельниково",
+        "power": "substation",
+        "voltage": "110000;35000;10000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2234368,
+          52.2634207
+        ]
+      },
+      "id": "way/451810884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307086871",
+        "barrier": "fence",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Мичуринец",
+        "official_short_type": "ПС",
+        "power": "substation",
+        "substation": "minor_distribution",
+        "voltage": "35000;400",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8261119,
+          56.2571099
+        ]
+      },
+      "id": "way/1307086871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/769608531",
+        "name": "Молодёжная",
+        "power": "substation",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4102695,
+          52.244112
+        ]
+      },
+      "id": "way/769608531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/726863214",
+        "name": "Мугун",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.2584733,
+          54.4716463
+        ]
+      },
+      "id": "way/726863214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217900006",
+        "name": "Мурино",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3871368,
+          51.4818904
+        ]
+      },
+      "id": "way/1217900006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/727895790",
+        "name": "Н.Бурбук",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.9916094,
+          54.2556407
+        ]
+      },
+      "id": "way/727895790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307086882",
+        "barrier": "fence",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Надежда",
+        "official_short_type": "ПС",
+        "operator": "АО «БЭСК»",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.824125,
+          56.2150532
+        ]
+      },
+      "id": "way/1307086882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218390453",
+        "name": "Небель",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0722192,
+          56.3778471
+        ]
+      },
+      "id": "way/1218390453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1356609866",
+        "name": "Небель",
+        "power": "substation",
+        "voltage": "35000;fixme",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.1026355,
+          56.3582813
+        ]
+      },
+      "id": "way/1356609866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14443644",
+        "name": "Невельская-тяговая",
+        "power": "substation",
+        "substation": "traction",
+        "type": "multipolygon",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.5305143,
+          56.1134017
+        ]
+      },
+      "id": "relation/14443644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/532297950",
+        "name": "Нижнеудинск",
+        "official_short_type": "ТПС",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000;27500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.0486092,
+          54.8795213
+        ]
+      },
+      "id": "way/532297950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218309216",
+        "name": "Нижний Кочергат",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2789906,
+          52.1367499
+        ]
+      },
+      "id": "way/1218309216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244171595",
+        "name": "Никольск",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4579698,
+          52.7460535
+        ]
+      },
+      "id": "way/244171595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228064116",
+        "name": "Ния",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "220000;fixme",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8023276,
+          56.565598
+        ]
+      },
+      "id": "way/228064116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1029481473",
+        "name": "Новая Лисиха",
+        "power": "substation",
+        "start_date": "2020",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4489968,
+          52.2273349
+        ]
+      },
+      "id": "way/1029481473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384133118",
+        "name": "Новая-Уда",
+        "power": "substation",
+        "rating": "32 MVA",
+        "substation": "distribution",
+        "voltage": "110000;35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6105704,
+          54.0199332
+        ]
+      },
+      "id": "way/384133118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/141622911",
+        "access": "private",
+        "barrier": "fence",
+        "name": "Ново-Зиминская",
+        "power": "substation",
+        "substation": "transmission;distribution",
+        "voltage": "500000;220000;110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.0421168,
+          53.9665236
+        ]
+      },
+      "id": "way/141622911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1310454749",
+        "description": "geoinfo by wikimapia.org, rating from СиПРЭ 10+6.3MVA",
+        "name": "Новобирюсинск(ая)",
+        "power": "substation",
+        "rating": "16.3 MVA",
+        "substation": "distribution",
+        "voltage": "110000;35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.7333203,
+          56.9623141
+        ]
+      },
+      "id": "way/1310454749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14463117",
+        "barrier": "fence",
+        "name": "Новоилимская подстанция 110 кВ/10 кВ/400 В",
+        "name:en": "Novoilimskaya substation 110 kV/10 kV/400 V",
+        "power": "substation",
+        "substation": "distribution",
+        "type": "multipolygon",
+        "voltage": "110000;10000;400",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6868403,
+          57.2933492
+        ]
+      },
+      "id": "relation/14463117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378348309",
+        "name": "Новочунка-тяговая",
+        "power": "substation",
+        "railway": "60 MVA",
+        "substation": "traction",
+        "voltage": "110000;27500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.2692082,
+          56.1197551
+        ]
+      },
+      "id": "way/1378348309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/134270993",
+        "barrier": "fence",
+        "description": "10+10 MVA",
+        "name": "НПС-17 Тайшет",
+        "power": "substation",
+        "rating": "20 MVA",
+        "substation": "industrial",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.0390511,
+          55.9074361
+        ]
+      },
+      "id": "way/134270993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378348274",
+        "name": "НПС-2",
+        "power": "substation",
+        "substation": "industrial",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.7799732,
+          56.0039586
+        ]
+      },
+      "id": "way/1378348274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378348271",
+        "name": "НПС-3",
+        "power": "substation",
+        "substation": "industrial",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.1341156,
+          56.4132455
+        ]
+      },
+      "id": "way/1378348271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218649615",
+        "name": "НПС-4",
+        "power": "substation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8714095,
+          56.5125911
+        ]
+      },
+      "id": "way/1218649615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218649608",
+        "name": "НПС-5",
+        "power": "substation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2941351,
+          56.5980658
+        ]
+      },
+      "id": "way/1218649608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1071995798",
+        "name": "НПС-6",
+        "power": "substation",
+        "voltage": "220000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3371999,
+          57.1210752
+        ]
+      },
+      "id": "way/1071995798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1311221986",
+        "name": "НПС-7",
+        "power": "substation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0402448,
+          57.5194216
+        ]
+      },
+      "id": "way/1311221986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1072084052",
+        "name": "НПС-8",
+        "power": "substation",
+        "voltage": "220000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.7041665,
+          58.2598266
+        ]
+      },
+      "id": "way/1072084052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1013095188",
+        "name": "НПС-9",
+        "power": "substation",
+        "voltage": "220000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.7846443,
+          58.8206411
+        ]
+      },
+      "id": "way/1013095188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/12136397",
+        "name": "Нюра",
+        "power": "substation",
+        "type": "multipolygon",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6550342,
+          54.5297235
+        ]
+      },
+      "id": "relation/12136397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/287432793",
+        "name": "Облепиха",
+        "official_short_type": "ТПС",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000;27500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.4583463,
+          55.6670873
+        ]
+      },
+      "id": "way/287432793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/573298759",
+        "name": "Огнёвка-тяговая",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000;27500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6103842,
+          56.2777927
+        ]
+      },
+      "id": "way/573298759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/256573530",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Озёрная",
+        "power": "substation",
+        "start_date": "2013",
+        "substation": "transmission;distribution",
+        "voltage": "500000;220000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.1040046,
+          55.9902437
+        ]
+      },
+      "id": "way/256573530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378348307",
+        "name": "Октябрьская",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.429509,
+          56.0704026
+        ]
+      },
+      "id": "way/1378348307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/242467921",
+        "landuse": "industrial",
+        "name": "Олой",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.9945597,
+          52.9095273
+        ]
+      },
+      "id": "way/242467921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/450375110",
+        "name": "Ользоны",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2094009,
+          52.9533371
+        ]
+      },
+      "id": "way/450375110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217837924",
+        "branch": "Северные электрические сети",
+        "frequency": "50",
+        "name": "Опорная",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "220000;110000;fixme",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.4173236,
+          56.1404067
+        ]
+      },
+      "id": "way/217837924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/246580834",
+        "name": "Оса",
+        "power": "substation",
+        "start_date": "1975",
+        "substation": "distribution",
+        "voltage": "110000;35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8919328,
+          53.3736691
+        ]
+      },
+      "id": "way/246580834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/563174071",
+        "barrier": "fence",
+        "name": "Осетрово",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7515298,
+          56.7894607
+        ]
+      },
+      "id": "way/563174071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307086866",
+        "barrier": "fence",
+        "branch": "Северные электрические сети",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Осиновка",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.898478,
+          56.2826871
+        ]
+      },
+      "id": "way/1307086866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243927095",
+        "barrier": "fence",
+        "name": "Оёк",
+        "power": "substation",
+        "voltage": "110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4487004,
+          52.5966981
+        ]
+      },
+      "id": "way/243927095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113629981",
+        "barrier": "fence",
+        "branch": "Северные электрические сети",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Падунская",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "220000;110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7514619,
+          56.3293546
+        ]
+      },
+      "id": "way/113629981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/213869639",
+        "name": "Перевал",
+        "power": "substation",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6742905,
+          51.660658
+        ]
+      },
+      "id": "way/213869639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255717312",
+        "area": "yes",
+        "name": "Пивзавод",
+        "power": "substation",
+        "voltage": "110000;35000;10000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.198723,
+          52.2416908
+        ]
+      },
+      "id": "way/255717312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217409900",
+        "name": "Пивовариха",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4531829,
+          52.2751527
+        ]
+      },
+      "id": "way/1217409900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299496209",
+        "landuse": "industrial",
+        "name": "Пионерская",
+        "name:ru": "Пионерская",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6770418,
+          52.4352393
+        ]
+      },
+      "id": "way/299496209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1178516447",
+        "name": "Подгорная",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3334811,
+          52.2624979
+        ]
+      },
+      "id": "way/1178516447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/430889640",
+        "name": "Подкаменная",
+        "name:en": "Podkamennaya",
+        "name:ru": "Подкаменная",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9182949,
+          51.9664474
+        ]
+      },
+      "id": "way/430889640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1311205967",
+        "description": "2 * 6.3 MVA",
+        "name": "Подымахино",
+        "power": "substation",
+        "rating": "12.6 MVA",
+        "substation": "distribution",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1838736,
+          57.0067188
+        ]
+      },
+      "id": "way/1311205967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/284576367",
+        "name": "Покосное",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "220000;35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.0466644,
+          55.5340144
+        ]
+      },
+      "id": "way/284576367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/687893074",
+        "landuse": "industrial",
+        "name": "Покровская",
+        "power": "substation",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4824002,
+          52.2732456
+        ]
+      },
+      "id": "way/687893074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1123647448",
+        "description": "220кВ 2ч80МВА",
+        "name": "Полимер",
+        "operator": "ООО \"ИНК\"",
+        "power": "substation",
+        "rating": "160 MVA",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0169774,
+          56.8533163
+        ]
+      },
+      "id": "way/1123647448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/535618698",
+        "name": "Порог",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.2483424,
+          54.5651548
+        ]
+      },
+      "id": "way/535618698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299025098",
+        "building": "industrial",
+        "name": "ПП-2",
+        "operator": "ООО ЭК Радиан",
+        "power": "substation",
+        "substation": "transition",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8731758,
+          52.4781737
+        ]
+      },
+      "id": "way/299025098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299023420",
+        "building": "industrial",
+        "name": "ПП-4",
+        "operator": "ООО ЭК Радиан",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8242119,
+          52.4956223
+        ]
+      },
+      "id": "way/299023420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184811446",
+        "name": "Прибрежная",
+        "name:ru": "Прибрежная",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8456961,
+          52.5262543
+        ]
+      },
+      "id": "way/184811446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/509384735",
+        "name": "Приморская",
+        "power": "substation",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3759165,
+          52.2481866
+        ]
+      },
+      "id": "way/509384735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/361179879",
+        "name": "Причал",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.0043354,
+          56.8239591
+        ]
+      },
+      "id": "way/361179879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/858326207",
+        "name": "Промбаза",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5392439,
+          56.1306668
+        ]
+      },
+      "id": "way/858326207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/447382916",
+        "building": "industrial",
+        "name": "ПС 110 кВ Балаганск",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "converter",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0353923,
+          54.0105834
+        ]
+      },
+      "id": "way/447382916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206018727",
+        "landuse": "industrial",
+        "name": "ПС 110 кВ Белореченская",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5129955,
+          52.8178983
+        ]
+      },
+      "id": "way/1206018727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297478340",
+        "name": "ПС 110 кВ Водозабор-1",
+        "operator": "АО АЭХК",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9527708,
+          52.5068475
+        ]
+      },
+      "id": "way/297478340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297857482",
+        "building": "industrial",
+        "name": "ПС 110 кВ Водозабор-2",
+        "operator": "ООО \"БЭК\" ТЭЦ-10",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9935141,
+          52.480063
+        ]
+      },
+      "id": "way/297857482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1085738565",
+        "building": "industrial",
+        "name": "ПС 110 кВ Вокзальная",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6473135,
+          52.738923
+        ]
+      },
+      "id": "way/1085738565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298817867",
+        "building": "industrial",
+        "name": "ПС 110 кВ ГПП БВК (недейст.)",
+        "operator": "ООО \"СВЕТ\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9770917,
+          52.4791949
+        ]
+      },
+      "id": "way/298817867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1205712400",
+        "building": "industrial",
+        "name": "ПС 110 кВ Еловка",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9888428,
+          52.4157884
+        ]
+      },
+      "id": "way/1205712400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/477420556",
+        "barrier": "fence",
+        "building": "industrial",
+        "name": "ПС 110 кВ Жаргон",
+        "operator": "ОАО \"РЖД\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0164961,
+          53.1857598
+        ]
+      },
+      "id": "way/477420556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228097369",
+        "building": "industrial",
+        "name": "ПС 110 кВ ЗГО",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6773187,
+          52.7329323
+        ]
+      },
+      "id": "way/228097369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/465127072",
+        "building": "industrial",
+        "layer": "1",
+        "name": "ПС 110 кВ Лесозавод",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2712682,
+          52.8933974
+        ]
+      },
+      "id": "way/465127072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206027061",
+        "building": "industrial",
+        "name": "ПС 110 кВ Мальта",
+        "operator": "Российские железные дороги",
+        "operator:en": "Russian Railways",
+        "operator:ru": "Российские железные дороги",
+        "operator:short": "РЖД",
+        "operator:wikidata": "Q660770",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5171307,
+          52.8309531
+        ]
+      },
+      "id": "way/1206027061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/431349445",
+        "barrier": "fence",
+        "building": "industrial",
+        "frequency": "50",
+        "name": "ПС 110 кВ Мирная",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9023879,
+          52.5401053
+        ]
+      },
+      "id": "way/431349445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184798710",
+        "building": "industrial",
+        "name": "ПС 110 кВ Н-3",
+        "operator": "АО \"АЭХК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8880275,
+          52.4752741
+        ]
+      },
+      "id": "way/184798710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227814892",
+        "barrier": "fence",
+        "building": "industrial",
+        "name": "ПС 110 кВ Новожилкино",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5573173,
+          52.5652015
+        ]
+      },
+      "id": "way/227814892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228236045",
+        "barrier": "fence",
+        "building": "industrial",
+        "layer": "1",
+        "name": "ПС 110 кВ Половина",
+        "operator": "ОАО \"РЖД\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2995111,
+          52.952215
+        ]
+      },
+      "id": "way/228236045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/468032128",
+        "barrier": "fence",
+        "building": "industrial",
+        "name": "ПС 110 кВ Свирск",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.34865,
+          53.0919485
+        ]
+      },
+      "id": "way/468032128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203056539",
+        "building": "industrial",
+        "name": "ПС 110 кВ Суховская",
+        "operator": "ОАО \"РЖД\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9507981,
+          52.4955687
+        ]
+      },
+      "id": "way/203056539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228055136",
+        "building": "industrial",
+        "layer": "1",
+        "name": "ПС 110 кВ Тельма",
+        "operator": "ОАО \"РЖД\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7388185,
+          52.6623847
+        ]
+      },
+      "id": "way/228055136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298563432",
+        "building": "industrial",
+        "name": "ПС 110 кВ УП-11",
+        "operator": "АО \"АНХК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9096357,
+          52.5755615
+        ]
+      },
+      "id": "way/298563432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/260454074",
+        "barrier": "fence",
+        "building": "industrial",
+        "designation": "ПС \"УП-6\"",
+        "name": "ПС 110 кВ УП-6",
+        "operator": "АО \"АНХК\"",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "converter",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9292016,
+          52.5853077
+        ]
+      },
+      "id": "way/260454074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228097371",
+        "barrier": "wall",
+        "building": "industrial",
+        "layer": "1",
+        "name": "ПС 110 кВ Усолье-Сибирское",
+        "operator": "ОАО \"РЖД\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6404653,
+          52.7355022
+        ]
+      },
+      "id": "way/228097371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228097364",
+        "name": "ПС 110 кВ Усольмаш (недейст.)",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6777247,
+          52.7346992
+        ]
+      },
+      "id": "way/228097364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122146738",
+        "name": "ПС 110 кВ Цемзавод",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8945679,
+          52.6105348
+        ]
+      },
+      "id": "way/122146738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/303736698",
+        "building": "industrial",
+        "name": "ПС 110 кВ ЦРП-2",
+        "operator": "АО \"АНХК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9397795,
+          52.5178155
+        ]
+      },
+      "id": "way/303736698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299493070",
+        "building": "industrial",
+        "name": "ПС 110 кВ Юбилейная",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7486061,
+          52.4408925
+        ]
+      },
+      "id": "way/299493070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/366420821",
+        "addr:city": "Иркутск",
+        "addr:country": "RU",
+        "addr:housenumber": "14/1",
+        "addr:postcode": "664007",
+        "addr:region": "Иркутская область",
+        "addr:street": "улица Октябрьской Революции",
+        "building": "power_substation",
+        "gas_insulated": "yes",
+        "location": "indoor",
+        "name": "ПС 110/10 кВ \"Городская\"",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.301683,
+          52.2898963
+        ]
+      },
+      "id": "way/366420821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/81154553",
+        "addr:city": "Иркутск",
+        "addr:country": "RU",
+        "addr:housenumber": "64",
+        "addr:postcode": "664047",
+        "addr:region": "Иркутская область",
+        "addr:street": "Партизанская улица",
+        "building": "power_substation",
+        "location": "indoor",
+        "name": "ПС 110/10/6 кВ \"Центральная\"",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;10000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.307178,
+          52.2744608
+        ]
+      },
+      "id": "way/81154553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/136584660",
+        "addr:city": "Иркутск",
+        "addr:country": "RU",
+        "addr:housenumber": "23",
+        "addr:postcode": "664011",
+        "addr:region": "Иркутская область",
+        "addr:street": "улица Сурикова",
+        "building": "industrial",
+        "building:levels": "5",
+        "description": "Строилась в 2020-2022 годах, запущена в сентябре 2022 года. Подстанция полностью расположена в здании , ЗРУЭ-110 кВ. Заменила подстанцию 35/6 кВ \"РКК\" (РКК - Районная Котельная Кировская)",
+        "gas_insulated": "yes",
+        "location": "indoor",
+        "name": "ПС 110/10/6 кВ «Цесовская»",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "rating": "80 MVA",
+        "start_date": "2022",
+        "substation": "distribution",
+        "voltage": "110000;10000;6000",
+        "was:building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2757757,
+          52.2906367
+        ]
+      },
+      "id": "way/136584660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1179751173",
+        "name": "ПС 110/35/6 \"Кировская\"",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2959226,
+          52.2960428
+        ]
+      },
+      "id": "way/1179751173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/851520405",
+        "name": "ПС 110/35/6 кВ \"Южная\"",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2998042,
+          52.238805
+        ]
+      },
+      "id": "way/851520405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228086878",
+        "building": "industrial",
+        "name": "ПС 110/35/6 кВ УП-10",
+        "operator": "АО \"АНХК\"",
+        "power": "substation",
+        "substation": "converter",
+        "voltage": "110000;35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9389943,
+          52.5684239
+        ]
+      },
+      "id": "way/228086878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228086879",
+        "name": "ПС 110/35/6 кВ УП-8",
+        "power": "substation",
+        "voltage": "110000;35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9386888,
+          52.5467839
+        ]
+      },
+      "id": "way/228086879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1178734846",
+        "name": "ПС 110/6 кВ \"Октябрьская\"",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3067026,
+          52.28103
+        ]
+      },
+      "id": "way/1178734846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617717832",
+        "name": "ПС 110/6 кВ \"Печная\"",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2965655,
+          52.2954031
+        ]
+      },
+      "id": "way/617717832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1179943431",
+        "name": "ПС 110/6 кВ \"Рабочая\"",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3356796,
+          52.2939944
+        ]
+      },
+      "id": "way/1179943431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/133019656",
+        "barrier": "fence",
+        "description": "Питает ПНС \"Лисиха\" (до 2009 года - электрокотельная \"Лисиха\".",
+        "name": "ПС 110/6 кВ \"Цимлянская\"",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3122369,
+          52.2608832
+        ]
+      },
+      "id": "way/133019656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297768999",
+        "name": "ПС 110кВ Промышленная",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9076963,
+          52.5129533
+        ]
+      },
+      "id": "way/297768999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/394688497",
+        "barrier": "fence",
+        "building": "industrial",
+        "name": "ПС 220 кВ Лесная (недейст.)",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2153216,
+          52.8651999
+        ]
+      },
+      "id": "way/394688497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/198409236",
+        "designation": "ПС 110/35/6 кВ \"УП-15\"",
+        "name": "ПС 220 кВ УП-15",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8899265,
+          52.568651
+        ]
+      },
+      "id": "way/198409236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474859468",
+        "barrier": "fence",
+        "name": "ПС 220 кВ Якурим тяговая",
+        "power": "substation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9382081,
+          56.8049522
+        ]
+      },
+      "id": "way/474859468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/687890944",
+        "description": "ПС 220/110/10 кВ \"Восточная\". Открыта в сентябре 2015 года. На подстанции применяются два трансформатора 220/110 кВ  OSFSZ-250000/220 производства КНР. Также на подстанции предположительно находятся два трансформатора 110/10 кВ 25 МВт каждый.",
+        "location": "outdoor",
+        "name": "ПС 220/110/10 кВ \"Восточная\"",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "rating": "500 MVA",
+        "start_date": "2015",
+        "substation": "transmission",
+        "voltage": "220000;110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3786,
+          52.2936833
+        ]
+      },
+      "id": "way/687890944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1047546947",
+        "name": "ПС 220/110/10 кВ Правобережная",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "220000;110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3280765,
+          52.3267195
+        ]
+      },
+      "id": "way/1047546947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/687893840",
+        "name": "ПС 220/110/35/6 кВ \"Ново-Ленино\"",
+        "power": "substation",
+        "voltage": "220000;110000;35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1722091,
+          52.3531573
+        ]
+      },
+      "id": "way/687893840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549675134",
+        "barrier": "fence",
+        "building": "industrial",
+        "name": "ПС 35 кВ Буреть",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4993273,
+          52.9668953
+        ]
+      },
+      "id": "way/549675134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/397631305",
+        "building": "industrial",
+        "name": "ПС 35 кВ Верхний Булай",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0403888,
+          53.0349466
+        ]
+      },
+      "id": "way/397631305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/468989219",
+        "building": "industrial",
+        "name": "ПС 35 кВ Водозабор",
+        "operator": "Черемховский водоканал",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3425876,
+          53.0482076
+        ]
+      },
+      "id": "way/468989219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/467584912",
+        "barrier": "fence",
+        "building": "industrial",
+        "name": "ПС 35 кВ Гришево",
+        "operator": "ОАО \"РЖД\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1407252,
+          53.0957539
+        ]
+      },
+      "id": "way/467584912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/467353708",
+        "barrier": "fence",
+        "building": "industrial",
+        "name": "ПС 35 кВ Западная-3",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0711312,
+          53.16145
+        ]
+      },
+      "id": "way/467353708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/466354411",
+        "building": "industrial",
+        "name": "ПС 35 кВ Зерновое",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2619967,
+          53.048377
+        ]
+      },
+      "id": "way/466354411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/467620309",
+        "building": "industrial",
+        "name": "ПС 35 кВ Касьяновская",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1897752,
+          53.0491801
+        ]
+      },
+      "id": "way/467620309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228206308",
+        "building": "industrial",
+        "name": "ПС 35 кВ Молодежная",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4881299,
+          52.8141105
+        ]
+      },
+      "id": "way/228206308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203149643",
+        "building": "industrial",
+        "name": "ПС 35 кВ РП-5",
+        "operator": "ОГУЭП \"Облкоммунэнерго\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8293853,
+          52.4989373
+        ]
+      },
+      "id": "way/203149643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298592370",
+        "building": "industrial",
+        "name": "ПС 35 кВ РП-6",
+        "operator": "АО \"АЭХК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8443465,
+          52.4902651
+        ]
+      },
+      "id": "way/298592370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/467620278",
+        "barrier": "fence",
+        "building": "industrial",
+        "name": "ПС 35 кВ РРЗ",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3359501,
+          53.0885892
+        ]
+      },
+      "id": "way/467620278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228239955",
+        "barrier": "fence",
+        "building": "industrial",
+        "name": "ПС 35 кВ Сосновка",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4212143,
+          52.8138318
+        ]
+      },
+      "id": "way/228239955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228228272",
+        "barrier": "fence",
+        "building": "industrial",
+        "name": "ПС 35 кВ Тайтурка",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4762486,
+          52.8638583
+        ]
+      },
+      "id": "way/228228272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/958801106",
+        "name": "ПС 35 кВ УПС-4",
+        "operator": "ООО ЭК Радиан",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8911765,
+          52.5777605
+        ]
+      },
+      "id": "way/958801106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1205710581",
+        "building": "industrial",
+        "name": "ПС 35 кВ УПС-5",
+        "operator": "ООО ЭК Радиан",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9076396,
+          52.4468855
+        ]
+      },
+      "id": "way/1205710581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298558415",
+        "building": "industrial",
+        "name": "ПС 35 кВ №1",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8791107,
+          52.55874
+        ]
+      },
+      "id": "way/298558415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298555785",
+        "building": "industrial",
+        "name": "ПС 35 кВ №2",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8969425,
+          52.5438434
+        ]
+      },
+      "id": "way/298555785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200113542",
+        "building": "industrial",
+        "circuits": "2",
+        "name": "ПС 35 кВ №7",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "voltage:primary": "35000",
+        "voltage:secondary": "6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8663436,
+          52.5293884
+        ]
+      },
+      "id": "way/200113542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1179951189",
+        "name": "ПС 35/6 кВ \"Марата\"",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3014462,
+          52.3005317
+        ]
+      },
+      "id": "way/1179951189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1178514659",
+        "name": "ПС 35/6 кВ \"Партизанская\"",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000/6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3111229,
+          52.2705374
+        ]
+      },
+      "id": "way/1178514659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184798669",
+        "building": "industrial",
+        "layer": "1",
+        "name": "ПС 500 кВ Иркутская ГПП-2",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "converter",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8840341,
+          52.4720974
+        ]
+      },
+      "id": "way/184798669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/508273269",
+        "name": "ПС Карапчанка",
+        "power": "substation",
+        "voltage": "110000;35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7773035,
+          57.9205206
+        ]
+      },
+      "id": "way/508273269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784320710",
+        "name": "ПС Межница",
+        "power": "substation",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7349072,
+          57.9244448
+        ]
+      },
+      "id": "way/784320710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784015191",
+        "description": "ПС 35/10 кВ \"Новый Невон\"",
+        "name": "ПС Новый Невон",
+        "power": "substation",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7228662,
+          58.0506331
+        ]
+      },
+      "id": "way/784015191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784320714",
+        "name": "ПС Северная",
+        "power": "substation",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8082508,
+          57.9097081
+        ]
+      },
+      "id": "way/784320714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784015183",
+        "description": "ПС 220/35/10 кВ \"Сибирская\"",
+        "name": "ПС Сибирская",
+        "power": "substation",
+        "voltage": "220000;35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6533587,
+          58.0078006
+        ]
+      },
+      "id": "way/784015183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784320722",
+        "name": "ПС Симахинская",
+        "power": "substation",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7634398,
+          57.9538735
+        ]
+      },
+      "id": "way/784320722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/785185310",
+        "name": "ПС Строительная",
+        "operator": "АО БЭСК",
+        "power": "substation",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8301321,
+          58.0243596
+        ]
+      },
+      "id": "way/785185310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/255033393",
+        "name": "ПС Таежная",
+        "power": "substation",
+        "voltage": "220000;110000;fixme",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.763629,
+          57.9775985
+        ]
+      },
+      "id": "way/255033393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784015197",
+        "description": "ПС 35/10 кВ № 11",
+        "name": "ПС № 11",
+        "power": "substation",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6061863,
+          57.9504832
+        ]
+      },
+      "id": "way/784015197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/785185305",
+        "name": "ПС № 13",
+        "operator": "АО БЭСК",
+        "power": "substation",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7325329,
+          57.9696509
+        ]
+      },
+      "id": "way/785185305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/785185309",
+        "name": "ПС № 18",
+        "operator": "АО БЭСК",
+        "power": "substation",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8120539,
+          58.0288717
+        ]
+      },
+      "id": "way/785185309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784320726",
+        "name": "ПС № 3",
+        "power": "substation",
+        "voltage": "220000;35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7165916,
+          57.9792356
+        ]
+      },
+      "id": "way/784320726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784015190",
+        "description": "ПС 35/10 кВ № 36",
+        "name": "ПС № 36",
+        "power": "substation",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6688629,
+          58.0216019
+        ]
+      },
+      "id": "way/784015190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784015188",
+        "description": "ПС 35/6 кВ № 5",
+        "name": "ПС № 5",
+        "power": "substation",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6730125,
+          58.0155683
+        ]
+      },
+      "id": "way/784015188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784015204",
+        "description": "ПС 220/6 кВ № 6",
+        "name": "ПС № 6",
+        "power": "substation",
+        "voltage": "220000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6615339,
+          57.9959426
+        ]
+      },
+      "id": "way/784015204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784015189",
+        "description": "ПС 35/10 кВ № 7",
+        "name": "ПС № 7",
+        "power": "substation",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7032799,
+          58.0308011
+        ]
+      },
+      "id": "way/784015189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227167230",
+        "description": "ПС 35/6 кВ № 8",
+        "name": "ПС № 8",
+        "power": "substation",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6369087,
+          57.9780972
+        ]
+      },
+      "id": "way/227167230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784015198",
+        "description": "ПС 35/6 кВ № 9",
+        "name": "ПС № 9",
+        "power": "substation",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6549604,
+          57.9837991
+        ]
+      },
+      "id": "way/784015198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/116960582",
+        "frequency": "50",
+        "name": "Птицефабрика",
+        "official_short_type": "ПС",
+        "operator": "АО «БЭСК»",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6756908,
+          56.3118788
+        ]
+      },
+      "id": "way/116960582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/116607512",
+        "barrier": "fence",
+        "branch": "Северные электрические сети",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Пурсей",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "220000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7212723,
+          56.3061789
+        ]
+      },
+      "id": "way/116607512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14479886",
+        "name": "Радищев",
+        "name:de": "Umspannwerk Radieschtschäw 35/10 kV",
+        "name:en": "Substation Radishchev 35/10 kV",
+        "name:es": "Subestación Radischev 35/10 kV",
+        "name:pl": "Podstacja Radiszczev 35/10 kV",
+        "power": "substation",
+        "substation": "distribution",
+        "type": "multipolygon",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.5006796,
+          57.225741
+        ]
+      },
+      "id": "relation/14479886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378064136",
+        "fixme": "name",
+        "name": "Рассолы",
+        "power": "substation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.0472104,
+          57.5295747
+        ]
+      },
+      "id": "way/1378064136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/670877832",
+        "name": "Рассоха",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0896976,
+          52.0250609
+        ]
+      },
+      "id": "way/670877832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1178582484",
+        "name": "Релейная",
+        "operator": "Филиал ОАО \"ИЭСК\" \"Южные электрические сети\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3442167,
+          52.2615667
+        ]
+      },
+      "id": "way/1178582484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1339835192",
+        "name": "Речушка-тяг.",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "220000;110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.8776079,
+          56.5221733
+        ]
+      },
+      "id": "way/1339835192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/532297973",
+        "barrier": "fence",
+        "fixme": "all",
+        "name": "Рубахино",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.0795664,
+          54.8433807
+        ]
+      },
+      "id": "way/532297973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210592022",
+        "name": "Рудная",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7014293,
+          51.6446936
+        ]
+      },
+      "id": "way/210592022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14434165",
+        "barrier": "fence",
+        "name": "Рудногорская",
+        "power": "substation",
+        "type": "multipolygon",
+        "voltage": "220000;110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.728943,
+          57.2667722
+        ]
+      },
+      "id": "relation/14434165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218649627",
+        "name": "Ручей-тяговая",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.0703019,
+          56.8599514
+        ]
+      },
+      "id": "way/1218649627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217212747",
+        "name": "Светлая",
+        "power": "substation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0932393,
+          52.1935105
+        ]
+      },
+      "id": "way/1217212747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/116373038",
+        "barrier": "fence",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Северная",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;fixme",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6260269,
+          56.1644455
+        ]
+      },
+      "id": "way/116373038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227192099",
+        "name": "Седановский переключательный пункт (СПП)",
+        "power": "substation",
+        "voltage": "220000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.273083,
+          56.9365902
+        ]
+      },
+      "id": "way/227192099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218649628",
+        "name": "Семигорск",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6682967,
+          56.6924122
+        ]
+      },
+      "id": "way/1218649628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/495109858",
+        "barrier": "fence",
+        "name": "Силикатная",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.6800924,
+          55.5682424
+        ]
+      },
+      "id": "way/495109858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/206825447",
+        "name": "Слюдянка",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "220000;110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6915017,
+          51.7172207
+        ]
+      },
+      "id": "way/206825447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307086881",
+        "barrier": "fence",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "СОНТ «Родник»",
+        "official_short_type": "ТП",
+        "power": "substation",
+        "ref": "305",
+        "substation": "minor_distribution",
+        "voltage": "35000;400",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8377153,
+          56.222374
+        ]
+      },
+      "id": "way/1307086881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307086877",
+        "barrier": "fence",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "СОНТ Ангарский Садовод",
+        "official_short_type": "ПС",
+        "power": "substation",
+        "ref": "2",
+        "substation": "minor_distribution",
+        "voltage": "35000;400",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8287561,
+          56.2349574
+        ]
+      },
+      "id": "way/1307086877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217409902",
+        "name": "Сосновая",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.635565,
+          52.030277
+        ]
+      },
+      "id": "way/1217409902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217409898",
+        "name": "Спутник",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.301201,
+          52.231199
+        ]
+      },
+      "id": "way/1217409898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217212719",
+        "name": "Столбово",
+        "power": "substation",
+        "voltage": "220000;35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1946206,
+          52.4190321
+        ]
+      },
+      "id": "way/1217212719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307086870",
+        "barrier": "fence",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Строитель",
+        "official_short_type": "ТП",
+        "operator": "АО «БЭСК»",
+        "power": "substation",
+        "substation": "minor_distribution",
+        "voltage": "35000;400",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8406601,
+          56.2663838
+        ]
+      },
+      "id": "way/1307086870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217409896",
+        "name": "Студенческая",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.256791,
+          52.2574284
+        ]
+      },
+      "id": "way/1217409896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307086867",
+        "barrier": "fence",
+        "branch": "Северные электрические сети",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "СТЭМИ",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.878987,
+          56.2749808
+        ]
+      },
+      "id": "way/1307086867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218390470",
+        "name": "Сухой Лог",
+        "power": "substation",
+        "voltage": "220000;110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2270476,
+          58.590699
+        ]
+      },
+      "id": "way/1218390470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307086880",
+        "barrier": "fence",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Таежный ключ",
+        "official_short_type": "ТП",
+        "power": "substation",
+        "substation": "minor_distribution",
+        "voltage": "35000;400",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8379543,
+          56.2262123
+        ]
+      },
+      "id": "way/1307086880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1307086879",
+        "barrier": "fence",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Таежный родник",
+        "official_short_type": "ПС",
+        "operator": "ООО \"ЭНКТП\"",
+        "power": "substation",
+        "substation": "minor_distribution",
+        "voltage": "35000;400",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8254488,
+          56.2276526
+        ]
+      },
+      "id": "way/1307086879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378642983",
+        "name": "ТАЗ-1",
+        "official_short_type": "ЗРУ",
+        "power": "substation",
+        "substation": "industrial",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.1123448,
+          55.9892974
+        ]
+      },
+      "id": "way/1378642983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131767848",
+        "barrier": "fence",
+        "branch": "Западные электрические сети",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Тайшет",
+        "operator": "ОАО \"ИЭСК\"",
+        "power": "substation",
+        "rating": "500 MVA",
+        "substation": "transmission;distribution",
+        "voltage": "500000;110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.0591016,
+          55.911072
+        ]
+      },
+      "id": "way/131767848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131890574",
+        "barrier": "wall",
+        "description": "Мощность трансформаторов 2*40МВА",
+        "name": "Тайшет-Восточная",
+        "official_short_type": "ТПС",
+        "power": "substation",
+        "rating": "80 MVA",
+        "source": "Bing",
+        "substation": "traction",
+        "voltage": "110000;27500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.0679975,
+          55.9139554
+        ]
+      },
+      "id": "way/131890574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1310454747",
+        "description": "Год ввода в эксплуатацию: 1980. Установленная мощность трансформаторов, МВ·А: 2×6,3. Собственник ПС: Филиал ПАО «МРСК Сибири» - «Красноярскэнерго», Северо-Восточный РЭС. Максимальная загрузка (за последние 5 лет) по результатам замеров: 2,169 МВт (2017 г.",
+        "name": "Тамтачет",
+        "power": "substation",
+        "rating": "12.6 MVA",
+        "ref": "17",
+        "start_date": "1980",
+        "substation": "distribution",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.7115393,
+          57.2766773
+        ]
+      },
+      "id": "way/1310454747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/392384390",
+        "name": "Тараса",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7764049,
+          53.0909159
+        ]
+      },
+      "id": "way/392384390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543803169",
+        "barrier": "fence",
+        "name": "Тихоновка",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.200391,
+          53.1607082
+        ]
+      },
+      "id": "way/543803169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1205710391",
+        "building": "industrial",
+        "name": "ТП 35/0,4 кВ ГСК Сибиряк",
+        "operator": "ГСК Сибиряк",
+        "power": "substation",
+        "substation": "converter",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8680047,
+          52.4783894
+        ]
+      },
+      "id": "way/1205710391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/13748962",
+        "name": "Тубинская",
+        "power": "substation",
+        "substation": "traction",
+        "type": "multipolygon",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.2778091,
+          57.6843042
+        ]
+      },
+      "id": "relation/13748962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/141629044",
+        "barrier": "wall",
+        "name": "Тулун",
+        "power": "substation",
+        "substation": "transmission;distribution",
+        "voltage": "500000;220000;110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.663766,
+          54.5395042
+        ]
+      },
+      "id": "way/141629044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/12048968",
+        "name": "Тулунская НПС",
+        "power": "substation",
+        "substation": "industrial",
+        "type": "multipolygon",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.554999,
+          54.6129508
+        ]
+      },
+      "id": "relation/12048968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/12005969",
+        "name": "Тулунский стекольный завод",
+        "power": "substation",
+        "substation": "yes",
+        "type": "multipolygon",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5643173,
+          54.5744461
+        ]
+      },
+      "id": "relation/12005969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/254568854",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Туристская",
+        "name:en": "Turistskaya",
+        "name:ru": "Туристская",
+        "power": "substation",
+        "voltage": "110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8139006,
+          51.9065895
+        ]
+      },
+      "id": "way/254568854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/573296429",
+        "name": "Турма-тяговая",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000;27500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.8942986,
+          56.1870539
+        ]
+      },
+      "id": "way/573296429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/325790677",
+        "access": "no",
+        "barrier": "fence",
+        "name": "Тыреть",
+        "official_short_type": "УПК",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "500000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2937578,
+          53.6669282
+        ]
+      },
+      "id": "way/325790677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/613511912",
+        "landuse": "industrial",
+        "location": "outdoor",
+        "name": "Тяговая подстанция железной дороги «Гончарово»",
+        "operator": "ОАО РЖД",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.1090976,
+          52.2063119
+        ]
+      },
+      "id": "way/613511912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/141608466",
+        "barrier": "fence",
+        "name": "Ук",
+        "official_short_type": "ТПС",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000;27500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.8628591,
+          55.0829843
+        ]
+      },
+      "id": "way/141608466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297172613",
+        "name": "Улькан",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.8024438,
+          55.9070423
+        ]
+      },
+      "id": "way/297172613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298594305",
+        "name": "УПС-3",
+        "operator": "ООО ЭК Радиан",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8454379,
+          52.482935
+        ]
+      },
+      "id": "way/298594305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218119676",
+        "name": "Урик",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3174708,
+          52.4943844
+        ]
+      },
+      "id": "way/1218119676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/14458192",
+        "barrier": "fence",
+        "branch": "МЭС Сибири",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Усть-Кут",
+        "name:en": "500 kV Ust-Kut substation",
+        "operator": "ПАО \"ФСК ЕЭС\"",
+        "power": "substation",
+        "substation": "distribution",
+        "type": "multipolygon",
+        "voltage": "500000;220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9302944,
+          56.8290742
+        ]
+      },
+      "id": "relation/14458192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218649624",
+        "name": "Усть-Кут",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.6381355,
+          56.7740224
+        ]
+      },
+      "id": "way/1218649624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158806004",
+        "name": "Усть-Орда",
+        "phone": "+7 39541 31732",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7285177,
+          52.7962261
+        ]
+      },
+      "id": "way/158806004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217900005",
+        "name": "Утулик",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0502742,
+          51.5307208
+        ]
+      },
+      "id": "way/1217900005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/481634203",
+        "barrier": "fence",
+        "name": "Харбатово",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9993066,
+          53.7412664
+        ]
+      },
+      "id": "way/481634203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436924263",
+        "name": "Хогот",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8754489,
+          53.2552134
+        ]
+      },
+      "id": "way/436924263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/453764031",
+        "name": "Хомутово",
+        "power": "substation",
+        "voltage": "110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3659091,
+          52.4647972
+        ]
+      },
+      "id": "way/453764031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210773298",
+        "barrier": "fence",
+        "name": "Хребтовая-тяговая",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2405138,
+          56.7100706
+        ]
+      },
+      "id": "way/210773298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202487441",
+        "name": "Хужир",
+        "power": "substation",
+        "source": "Bing",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.3142686,
+          53.180955
+        ]
+      },
+      "id": "way/202487441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1311213652",
+        "name": "ЦРММ",
+        "power": "substation",
+        "rating": "2.5 MVA",
+        "substation": "yes",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8284591,
+          56.8194228
+        ]
+      },
+      "id": "way/1311213652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218390474",
+        "name": "Чаянгро",
+        "power": "substation",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.6110001,
+          57.1836706
+        ]
+      },
+      "id": "way/1218390474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/325790675",
+        "access": "no",
+        "barrier": "fence",
+        "building": "industrial",
+        "name": "Черемхово",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.0638881,
+          53.0911946
+        ]
+      },
+      "id": "way/325790675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/459311690",
+        "barrier": "fence",
+        "name": "Черноруд",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7426767,
+          53.0012076
+        ]
+      },
+      "id": "way/459311690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218390458",
+        "name": "Чудничный",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "220000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2232366,
+          56.8467453
+        ]
+      },
+      "id": "way/1218390458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/234552729",
+        "name": "Чукша-тяговая",
+        "power": "substation",
+        "source": "Bing",
+        "substation": "traction",
+        "voltage": "110000;27500",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.0636294,
+          56.1299631
+        ]
+      },
+      "id": "way/234552729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1218649609",
+        "name": "Чёрная-тяговая",
+        "power": "substation",
+        "substation": "traction",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6487813,
+          56.4125755
+        ]
+      },
+      "id": "way/1218649609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/256577270",
+        "name": "Шеберта",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8680992,
+          54.6482204
+        ]
+      },
+      "id": "way/256577270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217212749",
+        "name": "Шелехово",
+        "power": "substation",
+        "voltage": "220000;110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0802609,
+          52.1854718
+        ]
+      },
+      "id": "way/1217212749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436989203",
+        "branch": "ВЭС",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Электрокотельная",
+        "operator": "ИЭ",
+        "power": "substation",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7604771,
+          52.8006827
+        ]
+      },
+      "id": "way/436989203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113819278",
+        "barrier": "fence",
+        "branch": "Северные электрические сети",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Энергетик-1",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7618722,
+          56.312297
+        ]
+      },
+      "id": "way/113819278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113568342",
+        "barrier": "fence",
+        "branch": "Северные электрические сети",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Энергетик-2",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7675335,
+          56.3000755
+        ]
+      },
+      "id": "way/113568342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265408577",
+        "barrier": "fence",
+        "branch": "Северные электрические сети",
+        "frequency": "50",
+        "location": "outdoor",
+        "name": "Энергетик-3",
+        "official_short_type": "ПС",
+        "operator": "АО \"ИЭСК\"",
+        "phone": "+7 3953 324484;+7 3953 324352",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7303438,
+          56.3213289
+        ]
+      },
+      "id": "way/265408577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/115071503",
+        "name": "Южная",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "110000;10000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6224461,
+          56.1442081
+        ]
+      },
+      "id": "way/115071503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1339821001",
+        "name": "Янталь",
+        "power": "substation",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2480869,
+          56.8527713
+        ]
+      },
+      "id": "way/1339821001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1378064143",
+        "name": "Яракта",
+        "power": "substation",
+        "substation": "yes",
+        "voltage": "110000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7876607,
+          57.9770114
+        ]
+      },
+      "id": "way/1378064143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784015196",
+        "description": "ПС 35/6 кВ № 16",
+        "name": "№ 16",
+        "power": "substation",
+        "substation": "distribution",
+        "voltage": "35000;6000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6544207,
+          58.0065024
+        ]
+      },
+      "id": "way/784015196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202768146",
+        "addr:city": "Ангарск",
+        "addr:place": "15-й микрорайон",
+        "addr:region": "Иркутская область",
+        "is_in": "Иркутская область",
+        "name": "№4",
+        "operator": "АО \"ИЭСК\"",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "35000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8623779,
+          52.5058715
+        ]
+      },
+      "id": "way/202768146"
+    }
+  ]
+}
